@@ -1,0 +1,10 @@
+cp ../robotaxi_sim/cache/la_network.pkl cache/
+networkx>=3.0
+plotly>=5.20
+streamlit>=1.30
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+osmnx>=2.0
+geopandas>=0.14
+shapely>=2.0
