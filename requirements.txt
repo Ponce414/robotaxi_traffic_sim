@@ -1,4 +1,3 @@
-cp ../robotaxi_sim/cache/la_network.pkl cache/
 networkx>=3.0
 plotly>=5.20
 streamlit>=1.30
