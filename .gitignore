@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 cache/*.json
+.venv/
+.ipython/
+.jupyter/
+.jupyter_data/
+.mplconfig/
