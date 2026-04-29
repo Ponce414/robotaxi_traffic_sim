@@ -68,10 +68,20 @@ ROAD_CALIBRATION: dict[str, dict[str, dict[str, float]]] = {
         "midday": {"inbound": 0.55, "outbound": 0.55},
         "pm":     {"inbound": 0.50, "outbound": 0.70},
     },
+    "Pico Blvd": {
+        "am":     {"inbound": 0.68, "outbound": 0.52},
+        "midday": {"inbound": 0.57, "outbound": 0.57},
+        "pm":     {"inbound": 0.53, "outbound": 0.73},
+    },
     "Figueroa St": {
         "am":     {"inbound": 0.70, "outbound": 0.50},
         "midday": {"inbound": 0.55, "outbound": 0.55},
         "pm":     {"inbound": 0.55, "outbound": 0.72},
+    },
+    "Alameda St": {
+        "am":     {"inbound": 0.72, "outbound": 0.55},
+        "midday": {"inbound": 0.62, "outbound": 0.60},
+        "pm":     {"inbound": 0.58, "outbound": 0.76},
     },
 }
 
